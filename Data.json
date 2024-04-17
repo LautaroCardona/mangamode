@@ -1,0 +1,218 @@
+{
+  "tiendaItemsData": [
+  {
+  "id": "item1",
+  "name": "Remera manga corta/JOJO's B.A",
+  "price": 4100,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen1.jpg"
+  },
+  {
+  "id": "item2",
+  "name": "Remera manga corta/Dragon Ball",
+  "price": 3500,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen2.jpg"
+  },
+  {
+  "id": "item3",
+  "name": "Remera/Neo genesis Evangelion",
+  "price": 4000,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen3.jpg"
+  },
+  {
+  "id": "item4",
+  "name": "Remera manga corta/Atack on Titans",
+  "price": 4250,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen4.jpg"
+  },
+  {
+  "id": "item8",
+  "name": "Remera manga corta/Naruto",
+  "price": 3200,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen8.jpg"
+  },
+  {
+  "id": "item6",
+  "name": "Remera manga corta /Dragon Ball Z",
+  "price": 3300,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen6.jpg"
+  },
+  {
+  "id": "item7",
+  "name": "Remera / Full Metal Alchemist",
+  "price": 3000,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen7.jpg"
+  },
+  {
+  "id": "item5",
+  "name": "Remera manga corta/ Sakura CC",
+  "price": 3600,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen5.jpg"
+  },
+  {
+  "id": "item9",
+  "name": "Remera sin mangas/ Sailor Moon",
+  "price": 4000,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen9.jpg"
+  },
+  {
+  "id": "item10",
+  "name": "Remera manga corta/ One piece",
+  "price": 4100,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen10.jpg"
+  }
+  ],
+  "tiendaItemsDataJewelry": [
+  {
+  "id": "item11",
+  "name": "Colgante metal/JOJO's B.A",
+  "price": 1500,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen1A.jpg"
+  },
+  {
+  "id": "item12",
+  "name": "set 7 llaveros/Dragon Ball",
+  "price": 4500,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen2A.jpg"
+  },
+  {
+  "id": "item13",
+  "name": "pulcera imantada/ One Piece",
+  "price": 3000,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen3A.jpg"
+  },
+  {
+  "id": "item14",
+  "name": "Broche para pelo/Sailor Moon",
+  "price": 2100,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen4A.jpg"
+  },
+  {
+  "id": "item15",
+  "name": "Gorra con hebilla/Naruto",
+  "price": 5000,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen5A.jpg"
+  },
+  {
+  "id": "item16",
+  "name": "Libreta portatil/Death Note",
+  "price": 4500,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen6A.jpg"
+  },
+  {
+  "id": "item17",
+  "name": "Set 6 pines/Sailor Moon",
+  "price": 3500,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen7A.jpg"
+  },
+  {
+  "id": "item18",
+  "name": "Aretes/ Demon Slayer Kimetsu no yaiba",
+  "price": 2800,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen8A.jpg"
+  },
+  {
+  "id": "item19",
+  "name": "Anteojos + Aretes/TRIGUM",
+  "price": 9000,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen9A.jpg"
+  },
+  {
+  "id": "item20",
+  "name": "Guantes/ Full Metal Alchemist",
+  "price": 2400,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen10A.jpg"
+  }
+  ],
+  "tiendaItemsDatasweater": [
+  {
+  "id": "item21",
+  "name": "Hoodie Mista Jojo's BA",
+  "price": 5600,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen1B.jpg"
+  },
+  {
+  "id": "item22",
+  "name": "Abrigo con cierre Naruto Shippuden",
+  "price": 6500,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen2B.jpg"
+  },
+  {
+  "id": "item23",
+  "name": "Buzo Majin Boo ROSA DBZ ",
+  "price": 5400,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen3B.jpg"
+  },
+  {
+  "id": "item24",
+  "name": "Abrigo de diseño Attak on Titan",
+  "price": 8950,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen4B.jpg"
+  },
+  {
+  "id": "item25",
+  "name": "Buzo KERO Sakura Card Captor",
+  "price": 10300,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen5B.jpg"
+  },
+  {
+  "id": "item26",
+  "name": "Buzo /Full Metal Alchemist",
+  "price": 7100,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen6B.jpg"
+  },
+  {
+  "id": "item27",
+  "name": "Impermeable /Mi vecino TOTORO",
+  "price": 4300,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen7B.jpg"
+  },
+  {
+  "id": "item28",
+  "name": "Hoodie/ Sheng Long DBZ",
+  "price": 5650,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen8B.jpg"
+  },
+  {
+  "id": "item29",
+  "name": "Buzo económico / Uzumaki",
+  "price": 3100,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen9B.jpg"
+  },
+  {
+  "id": "item30",
+  "name": "Buzo económico/ Jujutsu Kaisen",
+  "price": 3100,
+  "desc": "Lorem ipsum dolor sit amet consectetur adipisicing",
+  "img": "src/imagenes/imagen10B.jpg"
+  }
+  ]
+  }
