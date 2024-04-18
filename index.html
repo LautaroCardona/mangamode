@@ -1,0 +1,72 @@
+
+<!--
+
+Estimado Profesor;
+Decidí crear una tienda online de ropa con temática del mundo del anime.  En la medida de lo posible trate de cumplir con todas las consignas de la entrega final. 
+En primer lugar, Archivos JavaScript y JSON (Data.json) como base de datos/backend simulada. Originalmente había usado un js (Data.js) pero nose adaptaba a la consigna. Si bien no sé qué no es lo ideal, tuve que usar mi GitHub como repositorio, porque cuando utilizaba un json local no cargaban mis elementos, ya que tenía problema con el CORS. 
+(https://github.com/LautaroCardona/mangamode/blob/main/json/Data.json)
+Me aseguré de utilizar el método fetch junto con el uso de try-catch-finally en mi código. También utilizo el localStorage para guardar los elementos en el carrito. Y, desde luego, los archivos html interactúan con el JS utilizando DOMs.
+En lo que respecta a la Interfaz visual, he integrado CSS nativo en una hoja de estilos. Cuenta con paginas HTML conectadas a través de hipervínculos. Y se utiliza una librería externa; Bootstrap 5.
+En las siguientes páginas se desarrollará como usar el sitio, pero a grandes rasgos mi trabajo permite al usuario agregar productos al carrito, vaciar el carrito, mostrar el monto total de la compra y simular el proceso de compra.
+
+Dejo también un enlace de YouTube, para que puedan ver la página en acción: 
+https://www.youtube.com/watch?v=LwrGkw0Zmxk
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MANGA MODE</title>
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+</head>
+<body>
+  <div class="navbar">
+    <a href="index.html">
+      <h2><img src="src/imagenes/logo.png" width="60" alt="logo">
+        MANGA MODE
+      </h2>
+      <h4>vestimenta para fans del manga y el anime</h4>
+    </a>
+
+    <a href="index.html">
+      <h4 class="cont" >REMERAS</h4>
+    </a>
+
+    <a href="buzos.html">
+      <h4 class="cont" >BUZOS</h4>
+    </a>
+
+    <a href="accesorios.html">
+      <h4 class="cont" >ACCESORIOS</h4>
+    </a>
+
+
+    <a href="carrito.html">
+      <div class="cart">
+        <i class="bi bi-cart4"></i>
+        <cart id="Amount" class="Amount">0</cart>
+    </div>
+    </a>
+
+  </div> 
+
+
+  
+ <div class="tienda" id="tienda">
+ 
+ </div>
+
+</body>
+<script src="src/main.js"></script>
+
+<footer>
+  
+</footer>
+</html>
+
